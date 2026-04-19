@@ -1,0 +1,62 @@
+h3 {
+    background-color: antiquewhite !important;
+}
+
+
+
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    color: #1b741b;
+}
+
+#searchbtn {
+    background-color: black;
+    color: white ;
+}
+/* button  {
+     background-color: aqua;
+} */
+
+#login, #register {
+    background-color: aqua;
+}
+.userbtn {
+    background-color: aqua;
+}
+#maintopic {
+    color: blue;
+ }
+ * {
+    text-align: center;
+ }
+ h1,h3,h5 {
+    font-family: Georgia;
+ }
+ div.button {
+    color: azure;
+    background-color: purple;
+ }
+ .content {
+    color: white;
+    background-color: cornflowerblue;
+ }
+ div button{
+    background-color: purple;
+    color: azure;
+ }
+ button:hover{
+    color: blue;
+    background-color: yellow;
+ }
+ p:nth-of-type(2n){
+    color: yellow;
+ }
+ h1::first-letter{
+    color: red;
+ }
+ #yes:checked + label{
+    color: darkgreen;
+ }
